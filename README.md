@@ -1,10 +1,12 @@
 **Project Title** : **CHATBOT**
 
+
  **Summary**:
 My Project is baised on CHATBOT its work throught Openai. 
 In this project first import a Openai.To run a openai create a key.taken a function "chat_with_gpt".The modle of Openai is "gpt-3.5-turbo".
 passes a messages in a object. user to have complition i had taken "return......"
 For runing pyhton file directly written"if_name_".for asking a question from user Used "While". after "breaking" I had created a "response" then Used "Print".
+
 
 **Code** :
 ```
