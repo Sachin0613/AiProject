@@ -1,12 +1,12 @@
-#Project Title : CHATBOT 
+**Project Title** : **CHATBOT**
 
-##Summary:
+ **Summary**:
 My Project is baised on CHATBOT its work throught Openai. 
 In this project first import a Openai.To run a openai create a key.taken a function "chat_with_gpt".The modle of Openai is "gpt-3.5-turbo".
 passes a messages in a object. user to have complition i had taken "return......"
 For runing pyhton file directly written"if_name_".for asking a question from user Used "While". after "breaking" I had created a "response" then Used "Print".
 
-#Code :
+**Code** :
 ```
 import openai 
 
@@ -29,10 +29,10 @@ def chat_with_gpt(prompt):
             print("chatbot: ", response)
 ```
 
-##Data Sources:
+**Data Sources**:
 For Api_key : [api_key](https://platform.openai.com/settings/profile?tab=api-keys)
 
-##What Next?
+**What Next?**
 
 This is a normal chatbot code i wana create a extream level of chatbot . That chatbot can give a Image, links & many sources should avlailable. i am working on it !
 
